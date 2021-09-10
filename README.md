@@ -1,0 +1,2 @@
+# artsAndCrafts
+Codecademy Practice Project
